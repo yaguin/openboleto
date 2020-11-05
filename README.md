@@ -13,7 +13,7 @@ O OpenBoleto é uma biblioteca de código aberto para geração de boletos banc�
 Se você já conhece o **Composer** (o que é extremamente recomendado), simplesmente adicione a dependência abaixo à diretiva _"require"_ em seu **composer.json**:
 
 ```
-"openboleto/openboleto": "dev-master"
+"KryptonPay/openboleto": "dev-master"
 ```
 
 ### PSR-0 autoloader
